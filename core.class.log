@@ -1,0 +1,143 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '34632571201@s.whatsapp.net',
+    fromMe: false,
+    id: '2970F787055DE5D9206FB0D0B120DA00',
+    participant: undefined
+  },
+  messageTimestamp: 1733564561,
+  pushName: 'Arturo Mendoza',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '34632571201'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fd837c96-34fe-4555-9ef4-84e3b0bbf408',
+  keyword: 'key_1d4c2286-9da6-4921-a50f-ed96e3bdce80',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1faecc260a236e89a9ca767e33a97f3d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34632571201@s.whatsapp.net',
+    fromMe: false,
+    id: 'BB854A39B1C35514879F813297577C67',
+    participant: undefined
+  },
+  messageTimestamp: 1733564566,
+  pushName: 'Arturo Mendoza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agendar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Agendar',
+  from: '34632571201'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fd837c96-34fe-4555-9ef4-84e3b0bbf408',
+  keyword: 'key_1d4c2286-9da6-4921-a50f-ed96e3bdce80',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1faecc260a236e89a9ca767e33a97f3d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34632571201@s.whatsapp.net',
+    fromMe: false,
+    id: '43B8AB867022BA430954CE064501590A',
+    participant: undefined
+  },
+  messageTimestamp: 1733564573,
+  pushName: 'Arturo Mendoza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mañana a la 1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Mañana a la 1',
+  from: '34632571201'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0ef01e46-b0ba-43de-b8ac-3deb864fdaf0',
+  keyword: 'ans_4350169a-8868-48c6-b0ce-a9164f102e7d',
+  answer: 'Revisando disponibilidad...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b09bb1f86955e3081966cf434732825'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '34632571201@s.whatsapp.net',
+    fromMe: false,
+    id: '8EA48CFFEF183EC3A39B17C8AADDA382',
+    participant: undefined
+  },
+  messageTimestamp: 1733564580,
+  pushName: 'Arturo Mendoza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '34632571201'
+}
